@@ -2,12 +2,18 @@
 
 * [Introduction](README.md)
 
-## Decision Making
+## Self Organising System <a id="sos"></a>
 
-* [What is the Self-Organising System?](decision-making/what-is-the-self-organising-system.md)
-* [Glassfrog](decision-making/glassfrog.md)
-* [Integrative Decision Making](decision-making/integrative-decision-making.md)
-* [Integrative Elections](decision-making/integrative-elections.md)
+* [What is the Self-Organising System?](sos/what-is-the-self-organising-system.md)
+* [The Constitution](sos/the-constitution.md)
+* [Glassfrog](sos/glassfrog.md)
+* [Setting up a new Group](sos/setting-up-a-new-group.md)
+* [Facilitation Resources](sos/facilitation-resources/README.md)
+  * [How to facilitate a Working Group Meeting?](sos/facilitation-resources/how-to-facilitate-a-working-group-meeting.md)
+  * [How to facilitate the four types of agenda?](sos/facilitation-resources/how-to-facilitate-the-four-types-of-agenda.md)
+  * [Integrative Elections](sos/facilitation-resources/integrative-elections.md)
+  * [Integrative Decision Making](sos/facilitation-resources/integrative-decision-making.md)
+* [Recommended Reading](sos/recommended-reading.md)
 
 ## Tensions and Conflict
 
