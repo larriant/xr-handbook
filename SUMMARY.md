@@ -4,6 +4,8 @@
 
 ## Decision Making
 
+* [What is the Self-Organising System?](decision-making/what-is-the-self-organising-system.md)
+* [Glassfrog](decision-making/glassfrog.md)
 * [Integrative Decision Making](decision-making/integrative-decision-making.md)
 * [Integrative Elections](decision-making/integrative-elections.md)
 
