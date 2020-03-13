@@ -27,6 +27,7 @@
   * [Creating Group Agreements](tensions-and-conflict/handling-conflict-internally/creating-group-agreements.md)
   * [Tension Shifting](tensions-and-conflict/handling-conflict-internally/tension-shifting.md)
   * [Conflict First Aid](tensions-and-conflict/handling-conflict-internally/conflict-first-aid.md)
+  * [Empathy Circles](tensions-and-conflict/handling-conflict-internally/empathy-circles.md)
   * [NVC](tensions-and-conflict/handling-conflict-internally/nvc.md)
   * [Transforming Enemy Images](tensions-and-conflict/handling-conflict-internally/transforming-enemy-images.md)
 * [Tranformative Conflict Path](tensions-and-conflict/tcj-path/README.md)
