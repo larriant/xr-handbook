@@ -9,7 +9,7 @@ Integrative Decision Making is a structured process for making decisions as a gr
 5. **Objection Round** - facilitator asks each person in turn "Do you see any reasons why adopting this proposal would cause harm or move us backwards?”. Objections are stated, tested, and captured without discussion; the proposal is adopted if none surface.
 6. **Integration** - amend the proposal until the objection has been integrated. i.e. the proposal does not cause the objection. Once all integrated -&gt; have another objection round.
 
-#### References
+#### Links
 
 * [Holacracy's Integrative Decision Making](https://medium.com/org-hacking/holacracys-integrative-decision-making-process-f750d4b82abc)
 

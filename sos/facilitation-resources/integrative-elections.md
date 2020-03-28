@@ -10,7 +10,7 @@ Integrative Elections are a structured process for electing people to role's wit
 6. **Process Proposal** - take objections on the proposal \(like [IDM](integrative-decision-making.md) but without questions / reactions\) If proposed role-filler objects, return to stage 3.
 7. **Congratulate Newly Elected Role Filler**
 
-#### References
+#### Links
 
 * [Holacracy's Integrative Election Process](https://blog.holacracy.org/holacracy-election-process-101-election-process-walk-through-7626451cda0c)
 

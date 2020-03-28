@@ -51,5 +51,5 @@ How I am leaving the meeting and any reflections on the meeting process.
 
 ### **Links**
 
-* [**Meeting facilitation training video**](https://www.loom.com/share/87cc567a75c94a7dac2ce3ecb1bddfa0)**.** [**XR UK Constitution**](https://docs.google.com/document/d/1eagcC4DJ1wFYxIikGKiF9SvsYCwybxSBhL-FIf4zr_8/edit)\*\*\*\*
+* [Meeting facilitation training video](https://www.loom.com/share/87cc567a75c94a7dac2ce3ecb1bddfa0).
 

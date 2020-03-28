@@ -39,5 +39,5 @@ The XR UK Self Organising System \(SOS\) enables us to harness group wisdom whil
 
 * [Self Organising System Presentation](https://docs.google.com/presentation/d/1QQLBbD5kzaCd4RFvRbZ0fRz9FXPpv1AuVnQDcATeuXo/edit#slide=id.g5e18a1f1ca_0_342)
 * [Self Organising System One-Pager](https://docs.google.com/drawings/d/1wxAZVagObubuwM-NyxHEfeGW1_uSDp8bxk48JRGVsj4/view)
-* [Self Organising System Video Introduction](https://www.loom.com/share/b650b3945550454bac84ed5f0a8b6e29)
+* [Self Organising System Video Introduction](https://www.loom.com/share/b650b3945550454bac84ed5f0a8b6e29) \(14 mins\)
 
