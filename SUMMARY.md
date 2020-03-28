@@ -9,6 +9,7 @@
 * [The Constitution](sos/the-constitution.md)
 * [Glassfrog](sos/glassfrog.md)
 * [Setting up a new Group](sos/setting-up-a-new-group.md)
+* [Natural Cycles](sos/natural-cycles.md)
 * [Facilitation Resources](sos/facilitation-resources/README.md)
   * [How to facilitate a Working Group Meeting?](sos/facilitation-resources/how-to-facilitate-a-working-group-meeting.md)
   * [How to facilitate the four types of agenda?](sos/facilitation-resources/how-to-facilitate-the-four-types-of-agenda.md)
