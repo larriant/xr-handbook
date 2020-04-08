@@ -9,7 +9,7 @@
 * [The Constitution](sos/the-constitution.md)
 * [Glassfrog](sos/glassfrog.md)
 * [Setting up a new Group](sos/setting-up-a-new-group.md)
-* [Toolkit](sos/toolkit.md)
+* [Toolkit](sos/toolkit/README.md)
   * People
     * [Matrix Leadership](sos/toolkit/people/matrix-leadership.md)
 * [Natural Cycles](sos/natural-cycles.md)

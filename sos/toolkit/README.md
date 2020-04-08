@@ -5,7 +5,7 @@
 <table>
   <tr height="250px">
     <td width="250px">Buddies/Shadows/Pods/Mentors</td>
-    <td width="250px"><a href="toolkit/people/matrix-leadership.md">Matrix Leadership</a></td>
+    <td width="250px"><a href="people/matrix-leadership.md">Matrix Leadership</a></td>
     <td width="250px">Integration Process: Onboarding & Orientation</td>
   </tr>
 </table>
