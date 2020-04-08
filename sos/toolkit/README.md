@@ -2,6 +2,10 @@
 
 ## People
 
+|                              |                                                  |                                               |
+|------------------------------|--------------------------------------------------|-----------------------------------------------|
+| Buddies/Shadows/Pods/Mentors | [Matrix Leadership](people/matrix-leadership.md) | Integration Process: Onboarding & Orientation |
+
 <table>
   <tr height="250px">
     <td width="250px">Buddies/Shadows/Pods/Mentors</td>
