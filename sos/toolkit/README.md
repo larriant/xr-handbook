@@ -2,7 +2,7 @@
 
 ## People
 
-|                              |                                                  |                                               |
+| <img width="200px"/>         | <img width="200px"/>                             | <img width="200px"/>                          |
 |------------------------------|--------------------------------------------------|-----------------------------------------------|
 | Buddies/Shadows/Pods/Mentors | [Matrix Leadership](people/matrix-leadership.md) | Integration Process: Onboarding & Orientation |
 
