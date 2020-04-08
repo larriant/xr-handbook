@@ -2,15 +2,15 @@
 
 ## People
 
-|                                                                           |                                                  |                                                                         |
-|---------------------------------------------------------------------------|--------------------------------------------------|-------------------------------------------------------------------------|
-| [Support Groups (Buddies/Shadows/Pods/Mentors)](people/support-groups.md) | [Matrix Leadership](people/matrix-leadership.md) | [Integration Process: Onboarding & Orientation](integration-process.md) |
+|                                                                           |                                                  |                                                                                |
+|---------------------------------------------------------------------------|--------------------------------------------------|--------------------------------------------------------------------------------|
+| [Support Groups (Buddies/Shadows/Pods/Mentors)](people/support-groups.md) | [Matrix Leadership](people/matrix-leadership.md) | [Integration Process: Onboarding & Orientation](people/integration-process.md) |
 
 ## Purpose
 
 |                                                       |                                                         |                                                           |
 |-------------------------------------------------------|---------------------------------------------------------|-----------------------------------------------------------|
-| [Visioning Practices](purpose/visioning-practices.md) | [Evolutionary Purpose](purpose/evolutionary-purpose.md) | [Breaking-down Purpose](purpose/breaking-down-purpose.md) |
+| [Visioning Practices](purpose/visioning-practices.md) | [Evolutionary Purpose](purpose/evolutionary-purpose.md) | [Breaking Down Purpose](purpose/breaking-down-purpose.md) |
 
 ## Priorities
 
@@ -63,7 +63,7 @@
 
 |                                                                                |                                                              |                                                        |
 |--------------------------------------------------------------------------------|--------------------------------------------------------------|--------------------------------------------------------|
-| [Getting Things Done](personal-practices/getting-things-done.md)               | [Purpose Alignment](personal-practices/purpose-alignment.md) | [Self-awareness](personal-practices/self-awareness.md) |
+| [Getting Things Done](personal-practices/getting-things-done.md)               | [Purpose Alignment](personal-practices/purpose-alignment.md) | [Self-Awareness](personal-practices/self-awareness.md) |
 | [Recognising Personal Power](personal-practices/recognising-personal-power.md) |                                                              |                                                        |
 
 ## Tension Shifting

@@ -11,8 +11,57 @@
 * [Setting up a new Group](sos/setting-up-a-new-group.md)
 * [Toolkit](sos/toolkit/README.md)
   * People
+    * [Support Groups (Buddies/Shadows/Pods/Mentors)](sos/toolkit/people/support-groups.md)
     * [Matrix Leadership](sos/toolkit/people/matrix-leadership.md)
-* [Natural Cycles](sos/natural-cycles.md)
+    * [Integration Process: Onboarding & Orientation](sos/toolkit/people/integration-process.md)
+  * Purpose
+    * [Visioning Practices](sos/toolkit/purpose/visioning-practices.md)
+    * [Evolutionary Purpose](sos/toolkit/purpose/evolutionary-purpose.md)
+    * [Breaking Down Purpose](sos/toolkit/purpose/breaking-down-purpose.md)
+  * Priorities
+    * [Even/over Process](sos/toolkit/priorities/even-over-process.md)
+    * [Eisenhower Urgency Matrix](sos/toolkit/priorities/urgency-matrix.md)
+    * [Goal Setting](sos/toolkit/priorities/goal-setting.md)
+    * [Co-budgeting](sos/toolkit/priorities/co-budgeting.md)
+  * Projects
+    * [Project Boards](sos/toolkit/projects/project-boards.md)
+    * [Project Cycle](sos/toolkit/projects/project-cycle.md)
+    * [Project Charters](sos/toolkit/projects/project-charters.md)
+    * [Project Circles](sos/toolkit/projects/project-circles.md)
+  * Agreements
+    * [Drafting Policies](sos/toolkit/agreements/drafting-policies.md)
+    * [Ways of Working](sos/toolkit/agreements/ways-of-working.md)
+    * [Advice Process](sos/toolkit/agreements/advice-process.md)
+  * Meetings
+    * [Natural Cycles](sos/toolkit/meetings/natural-cycles.md)
+    * [Break-out Groups](sos/toolkit/meetings/break-out-groups.md)
+    * [Minutes](sos/toolkit/meetings/minutes.md)
+    * [Agenda Building](sos/toolkit/meetings/agenda-building.md)
+    * [Meeting Online](sos/toolkit/meetings/meeting-online.md)
+  * Facilitation
+    * [Integrative Decision-Making](sos/toolkit/facilitation/integrative-decision-making.md)
+    * [Convergent Facilitation](sos/toolkit/facilitation/convergent-facilitation.md)
+    * [Facilitation: Ways of Being](sos/toolkit/facilitation/ways-of-being.md)
+  * Roles
+    * [Core Roles](sos/toolkit/roles/core-roles.md)
+    * [Nominations Process](sos/toolkit/roles/nominations-process.md)
+    * [Drafting Mandates](sos/toolkit/roles/drafting-mandates.md)
+    * [Role-filling Best Practices](sos/toolkit/roles/role-filling-best-practices.md)
+  * Communication
+    * [Co-reliance](sos/toolkit/communication/co-reliance.md)
+    * [Tech Tools](sos/toolkit/communication/tech-tools.md)
+    * [Nonviolent Communication](sos/toolkit/communication/nonviolent-communication.md)
+    * [Offering Feedback](sos/toolkit/communication/offering-feedback.md)
+    * [Email Best Practices](sos/toolkit/communication/email-best-practices.md)
+  * Personal Practices
+    * [Getting Things Done](sos/toolkit/personal-practices/getting-things-done.md)
+    * [Purpose Alignment](sos/toolkit/personal-practices/purpose-alignment.md)
+    * [Self-Awareness](sos/toolkit/personal-practices/self-awareness.md)
+    * [Recognising Personal Power](sos/toolkit/personal-practices/recognising-personal-power.md)
+  * Tension Shifting
+    * [Dialogue Process](sos/toolkit/tension-shifting/dialogue-process.md)
+    * [Tension Processing](sos/toolkit/tension-shifting/tension-processing.md)
+    * [Circle Repping](sos/toolkit/tension-shifting/circle-repping.md)
 * [Facilitation Resources](sos/facilitation-resources/README.md)
   * [How to facilitate a Working Group Meeting?](sos/facilitation-resources/how-to-facilitate-a-working-group-meeting.md)
   * [How to facilitate the four types of agenda?](sos/facilitation-resources/how-to-facilitate-the-four-types-of-agenda.md)
