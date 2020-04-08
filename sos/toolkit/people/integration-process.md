@@ -1,1 +1,2 @@
-# Integration Process
+# Integration Process: Onboarding & Orientation
+

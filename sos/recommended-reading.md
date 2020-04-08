@@ -1,7 +1,5 @@
 # Recommended Reading
 
-
-
 **Recommended reading**
 
 * We the People: Consenting to a Deeper Democracy by John Buck and Sharon Villines
