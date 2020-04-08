@@ -9,6 +9,9 @@
 * [The Constitution](sos/the-constitution.md)
 * [Glassfrog](sos/glassfrog.md)
 * [Setting up a new Group](sos/setting-up-a-new-group.md)
+* [Toolkit](sos/toolkit.md)
+  * People
+    * [Matrix Leadership](sos/toolkit/people/matrix-leadership.md)
 * [Natural Cycles](sos/natural-cycles.md)
 * [Facilitation Resources](sos/facilitation-resources/README.md)
   * [How to facilitate a Working Group Meeting?](sos/facilitation-resources/how-to-facilitate-a-working-group-meeting.md)
@@ -37,4 +40,3 @@
   * [Dialogue Process](tensions-and-conflict/tcj-path/dialogue-process.md)
 * [Care Councils](tensions-and-conflict/care-councils.md)
 * [Further Resources](tensions-and-conflict/further-resources.md)
-
