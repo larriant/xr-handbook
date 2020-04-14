@@ -4,19 +4,19 @@ If you're looking for introductory information about Extinction Rebellion, check
 
 ### About this Handbook
 
-This handbook aims to be a guide for XR UK groups in what we have learnt together about the systems necessary for us to work effectively and regeneratively.
+This handbook aims to contain a record of what we have learnt together about the systems necessary for us to work effectively and regeneratively within XR UK.
 
-Eventually we hope it to cover all of Miki Kashtan's Five Organisational Systems that must be deeply interlinked:
+Eventually we hope it to cover all of Miki Kashtan's Five Organisational Systems that must be deeply interlinked \(relevant XR teams in brackets\):
 
-* Information Flow \(connected with Tech\)
-* Decision-Making \(SOS\)
-* Feedback
-* Conflict \(feedback on other systems\)
+* Information Flow \(connected with XR Tech Team\)
+* Decision-Making \(XR Self Organising System Team\)
+* Feedback \(XR Feedback and Learning Team\)
+* Conflict \(XR Transformative Conflict Team\)
 * Finance
 
 We think we also need a sixth 'Support & Care System' to allow the XR organism to function regeneratively.
 
-But at the moment this handbook just contains information from the **XR UK Transformative Conflict and Justice Systems** Team.
+At the moment this handbook just contains information from the XR UK [Transformative Conflict](transformative-conflict/intro.md) and [Self Organising System](sos/intro.md) Teams.
 
 ### Other Handbooks
 

@@ -4,7 +4,7 @@
 
 ## Self Organising System <a id="sos"></a>
 
-* [Intro](sos/intro.md)
+* [SOS Introduction](sos/intro.md)
 * [What is the Self-Organising System?](sos/what-is-the-self-organising-system.md)
 * [The Constitution](sos/the-constitution.md)
 * [Glassfrog](sos/glassfrog.md)
@@ -71,23 +71,23 @@
 * [Recommended Reading](sos/recommended-reading.md)
 * [SOS Q&A](sos/sos-q-and-a.md)
 
-## Tensions and Conflict
+## Transformative Conflict
 
-* [Intro](tensions-and-conflict/intro.md)
-* [What is Conflict?](tensions-and-conflict/what-is-conflict.md)
-* [A Transformative Approach](tensions-and-conflict/a-transformative-approach.md)
-* [Handling Conflict Internally](tensions-and-conflict/handling-conflict-internally/README.md)
-  * [Creating Group Agreements](tensions-and-conflict/handling-conflict-internally/creating-group-agreements.md)
-  * [Empathy Circles](tensions-and-conflict/handling-conflict-internally/empathy-circles.md)
-  * [Tension Shifting](tensions-and-conflict/handling-conflict-internally/tension-shifting.md)
-  * [Conflict First Aid](tensions-and-conflict/handling-conflict-internally/conflict-first-aid.md)
-  * [NVC](tensions-and-conflict/handling-conflict-internally/nvc.md)
-  * [The Drama Triangle](tensions-and-conflict/handling-conflict-internally/the-drama-triangle.md)
-  * [Transforming Enemy Images](tensions-and-conflict/handling-conflict-internally/transforming-enemy-images.md)
-* [Tranformative Conflict Path](tensions-and-conflict/tranformative-conflict-path/README.md)
-  * [Which Situations?](tensions-and-conflict/tranformative-conflict-path/which-situations.md)
-  * [How to Access?](tensions-and-conflict/tranformative-conflict-path/how-to-access.md)
-  * [Dialogue Process](tensions-and-conflict/tranformative-conflict-path/dialogue-process.md)
-* [Care Councils](tensions-and-conflict/care-councils.md)
-* [Further Resources](tensions-and-conflict/further-resources.md)
+* [TC Introduction](transformative-conflict/intro.md)
+* [What is Conflict?](transformative-conflict/what-is-conflict.md)
+* [A Transformative Approach](transformative-conflict/a-transformative-approach.md)
+* [Handling Conflict Internally](transformative-conflict/handling-conflict-internally/README.md)
+  * [Creating Group Agreements](transformative-conflict/handling-conflict-internally/creating-group-agreements.md)
+  * [Empathy Circles](transformative-conflict/handling-conflict-internally/empathy-circles.md)
+  * [Tension Shifting](transformative-conflict/handling-conflict-internally/tension-shifting.md)
+  * [Conflict First Aid](transformative-conflict/handling-conflict-internally/conflict-first-aid.md)
+  * [NVC](transformative-conflict/handling-conflict-internally/nvc.md)
+  * [The Drama Triangle](transformative-conflict/handling-conflict-internally/the-drama-triangle.md)
+  * [Transforming Enemy Images](transformative-conflict/handling-conflict-internally/transforming-enemy-images.md)
+* [Tranformative Conflict Path](transformative-conflict/tranformative-conflict-path/README.md)
+  * [Which Situations?](transformative-conflict/tranformative-conflict-path/which-situations.md)
+  * [How to Access?](transformative-conflict/tranformative-conflict-path/how-to-access.md)
+  * [Dialogue Process](transformative-conflict/tranformative-conflict-path/dialogue-process.md)
+* [Care Councils](transformative-conflict/care-councils.md)
+* [Further Resources](transformative-conflict/further-resources.md)
 
