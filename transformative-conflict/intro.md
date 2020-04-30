@@ -8,7 +8,7 @@ Also information about how best to deal with [conflict internally](internal-conf
 
 As well as information for accessing the [**Transformative Conflict Path**](tranformative-conflict-path/), which is a process run by the transformative conflict team with trained facilitators to help groups in difficult conflict situations.
 
-We also have a guide to our [**Care Council Path**](care-council-path.md), which is a process for dealing with emergency conflicts that need a swift response or in situations where our normal Transformative Conflict Path response has broken down.
+We also have a guide to our [**Care Council Path**](care-council-path/), which is a process for dealing with emergency conflicts that need a swift response or in situations where our normal Transformative Conflict Path response has broken down.
 
 ### Help
 

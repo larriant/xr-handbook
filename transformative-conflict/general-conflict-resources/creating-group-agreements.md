@@ -1,4 +1,4 @@
-# Creating Group Agreements
+# Creating Conflict Agreements
 
 We suggest that all groups create Conflict Group Agreements to figure out how they will handle conflicts and tensions when they inevitably arise. 
 

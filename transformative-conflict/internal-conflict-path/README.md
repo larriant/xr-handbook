@@ -1,4 +1,6 @@
 # Internal Conflict Path
 
-These pages document various techniques for handling conflict better within your team i.e. without asking for external support from the Transformative Conflict Team.
+This is a suggested process that a team could run through when they come into conflict with each other. 
+
+This would be something to try **before** asking the Transformative Conflict Team for their help.
 
