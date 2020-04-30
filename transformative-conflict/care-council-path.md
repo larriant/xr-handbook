@@ -1,4 +1,4 @@
-# Care Councils
+# Care Council Path
 
 We are currently in the process of setting up a system for the creation of **Care Councils**.
 
