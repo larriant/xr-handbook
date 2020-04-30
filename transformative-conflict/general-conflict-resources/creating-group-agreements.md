@@ -1,6 +1,6 @@
 # Creating Conflict Agreements
 
-We suggest that all groups create Conflict Group Agreements to figure out how they will handle conflicts and tensions when they inevitably arise. 
+We suggest that all groups create **Conflict Agreements** to figure out how they will handle conflicts and tensions when they inevitably arise. 
 
 These could include: 
 
@@ -9,7 +9,7 @@ These could include:
 * A shared understanding about what to do if a conflict occurs and when and how to ask for help from the TCJ team. 
 * An intention to use [Nonviolent Communication](../../sos/toolkit/communication/nonviolent-communication.md) and short feedback loops to process tensions quickly and non-judgmentally. 
 
-Short feedback Loops are when you tell someone that you have a tension with their role or their behaviours quickly after the tension occurs.
+**Short feedback Loops** are when you tell someone that you have a tension with their role or their behaviours quickly after the tension occurs.
 
 
 
