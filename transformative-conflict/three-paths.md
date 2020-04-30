@@ -2,7 +2,7 @@
 
 In XR UK we have 3 paths for dealing with conflict.
 
-#### **1. The Internal Conflict Path**
+#### **1. The In-Circle Path**
 
 This is a suggested process that a team can use to deal with conflicts themselves \(i.e. without asking for external support\).
 

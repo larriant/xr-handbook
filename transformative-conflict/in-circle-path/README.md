@@ -1,4 +1,4 @@
-# Internal Conflict Path
+# In-Circle Path
 
 This is a suggested process that a team could run through when they come into conflict with each other. 
 

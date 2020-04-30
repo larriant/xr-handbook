@@ -4,7 +4,7 @@ This set of pages gives advice for how to respond to conflict and tension within
 
 It contains background information on [conflict](what-is-conflict.md) and [our approach](a-transformative-approach.md) to it.
 
-Also information about how best to deal with [conflict internally](internal-conflict-path/) \(i.e. not reaching out for help\) and an [**Internal Conflict Path**](internal-conflict-path/) that your team could follow when conflict inevitably occurs.
+Also information about how best to deal with [conflict internally](in-circle-path/) \(i.e. not reaching out for help\) and an [**Internal Conflict Path**](in-circle-path/) that your team could follow when conflict inevitably occurs.
 
 As well as information for accessing the [**Transformative Conflict Path**](tranformative-conflict-path/), which is a process run by the transformative conflict team with trained facilitators to help groups in difficult conflict situations.
 
