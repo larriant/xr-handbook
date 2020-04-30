@@ -1,4 +1,4 @@
-# Three Paths
+# Our Three Conflict Paths
 
 In XR UK we have 3 paths for dealing with conflict.
 
