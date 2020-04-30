@@ -1,4 +1,6 @@
-# Timescales
+# FAQs
+
+### How long does the Transformative Conflict Path take?
 
 As every conflict is different it is not advisable to put timescales on the completion of the Transformative Conflict Path. 
 
@@ -8,4 +10,10 @@ Conflict processes involve many complexities and creating the conditions for dia
 
 We will prioritise tending those who are more urgent and with as much care and focus as we are able to. We will communicate clearly and keep the people involved continuously to inform them of which step of the path we are on with regards to the process.   
 
+
+### Do I have to take part in the Transformative Conflict Path?
+
+
+
+### What happens if some participants of a conflict do not consent to the Path?
 

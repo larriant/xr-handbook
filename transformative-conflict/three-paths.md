@@ -1,5 +1,9 @@
 # Our Three Conflict Paths
 
+
+
+![](../.gitbook/assets/whatsapp-image-2020-03-12-at-12.35.09.jpeg)
+
 In XR UK we have 3 paths for dealing with conflict.
 
 #### **1. The In-Circle Path**

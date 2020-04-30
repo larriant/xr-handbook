@@ -1,6 +1,6 @@
 # Dialogue Process
 
-The Transformative Conflict Circle will follow a **Dialogue Process** which is a method of allowing everyone in a conflict to express how the situation has affected them and feel heard by the other parties. 
+The Transformative Circle will follow a **Dialogue Process** which is a method of allowing everyone in a conflict to express how the situation has affected them and feel heard by the other parties. 
 
 ![](../../.gitbook/assets/dialogue.jpg)
 
