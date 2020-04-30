@@ -8,3 +8,5 @@ It does this by giving one person the ‘**microphone**’ which gives them the 
 
 When one person feels heard, the participants then swap over so everyone has a chance to speak and be heard.
 
+**The process is designed to help people hear, understand and take in how people are feeling, and what really matters to them, in a way that supports empathy and care.**
+

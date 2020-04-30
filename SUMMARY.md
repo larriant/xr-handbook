@@ -84,6 +84,7 @@
   * [Which Situations?](transformative-conflict/tranformative-conflict-path/which-situations.md)
   * [How to Access?](transformative-conflict/tranformative-conflict-path/how-to-access.md)
   * [Dialogue Process](transformative-conflict/tranformative-conflict-path/dialogue-process.md)
+  * [Timescales](transformative-conflict/tranformative-conflict-path/timescales.md)
 * [Care Council Path](transformative-conflict/care-council-path/README.md)
   * [Why do we need Care Councils?](transformative-conflict/care-council-path/why-do-we-need-care-councils.md)
   * [Vision of Care Councils in XR UK](transformative-conflict/care-council-path/vision-of-care-councils-in-xr-uk.md)
