@@ -1,4 +1,4 @@
-# Our Three Conflict Paths
+# Our Two Conflict Paths
 
 
 

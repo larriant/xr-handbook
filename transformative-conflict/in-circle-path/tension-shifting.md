@@ -9,7 +9,9 @@ We suggest that groups aim to 'shift tensions' regularly.
 This means giving a space where tensions can be aired and the group can work together to resolve them.
 
 1. Do a round asking everyone how comfortable they feel to receive feedback.
-2. Give everyone 5 minutes to brainstorm any tensions that have occured recently.
+2. Brainstorm tensions, which could involve
+   * Giving 5 minutes for everyone to journal
+   * Pairing people up to talk through tensions 1-1 and support each other to bring them.
 3. Do a round of each person asking them to share their tensions. Record them!
 4. Go through each person and work to resolve their tension. 
 5. This might involve:

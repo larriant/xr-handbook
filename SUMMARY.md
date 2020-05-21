@@ -76,7 +76,7 @@
 * [TC Introduction](transformative-conflict/intro.md)
 * [What is Conflict?](transformative-conflict/what-is-conflict.md)
 * [A Transformative Approach](transformative-conflict/a-transformative-approach.md)
-* [Our Three Conflict Paths](transformative-conflict/three-paths.md)
+* [Our Two Conflict Paths](transformative-conflict/three-paths.md)
 * [In-Circle Path](transformative-conflict/in-circle-path/README.md)
   * [Conflict First Aid](transformative-conflict/in-circle-path/conflict-first-aid.md)
   * [Tension Shifting](transformative-conflict/in-circle-path/tension-shifting.md)
